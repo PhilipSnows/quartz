@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "guide.md",
+                "file": "commandment01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "guide.md",
+                "file": "commandment01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "guide.md",
+                "file": "commandment01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "guide.md"
+                "file": "commandment01.md"
               }
             }
           }
@@ -148,18 +148,18 @@
   },
   "active": "b42f739bde0e7f9a",
   "lastOpenFiles": [
-    "Commandment 01.md",
+    "commandment10.md",
+    "commandment09.md",
+    "commandment08.md",
+    "commandment07.md",
+    "commandment06.md",
+    "commandment05.md",
+    "commandment04.md",
+    "commandment03.md",
+    "commandment02.md",
+    "commandment01.md",
     "guide.md",
-    "Commandment 02.md",
     "_index.md",
-    "Commandment 10.md",
-    "Commandment 05.md",
-    "Commandment 03.md",
-    "Commandment 07.md",
-    "Commandment 09.md",
-    "Commandment 08.md",
-    "Commandment 06.md",
-    "Commandment 04.md",
     "[[Guide.md",
     "Test file.md"
   ]
