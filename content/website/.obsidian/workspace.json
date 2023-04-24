@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7332d71146d25a49",
+            "id": "b42f739bde0e7f9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,12 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c17ec806fa45896",
+  "active": "b42f739bde0e7f9a",
   "lastOpenFiles": [
-    "[[Guide.md",
-    "guide.md",
+    "Commandment 02.md",
     "_index.md",
-    "Test file.md",
-    "Untitled.md"
+    "Commandment 01.md",
+    "guide.md",
+    "Commandment 10.md",
+    "Commandment 05.md",
+    "Commandment 03.md",
+    "Commandment 07.md",
+    "Commandment 09.md",
+    "Commandment 08.md",
+    "Commandment 06.md",
+    "Commandment 04.md",
+    "[[Guide.md",
+    "Test file.md"
   ]
 }

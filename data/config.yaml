@@ -1,9 +1,9 @@
 ﻿name: Bornogo
 enableToc: true
-openToc: false
-enableLinkPreview: false
+openToc: true
+enableLinkPreview: true
 enableLatex: true
-enableCodeBlockTitle: false
+enableCodeBlockTitle: true
 enableCodeBlockCopy: fase
 enableCallouts: true
 enableSPA: true
