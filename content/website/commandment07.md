@@ -12,8 +12,6 @@ Most of the time it's best to hoard resources for **something expensive.** This 
 
 Remember the Dragon's Rule: **when in doubt, hoard it.**
 
-[[guide#The 10 Commandments|Link Back to 10 Commandments]]
-
 ## Gold
 >“Must be nice, to have so much money you don’t notice if a pocketful of Galleons goes missing.”
 >— Ron "F2P King" Weasley
@@ -220,8 +218,8 @@ You can buy Starstones with real money. My advice if you decide to buy those pin
 ![600](https://i.imgur.com/IWO0CIL.jpg)
 
 ---
-| **◀ PREVIOUS**----------------------------------|----------------------------------**NEXT ▶** |
-| ------------------------------------------- | ----------------------------------------|
+| **◀ PREVIOUS**    | ---------- **NEXT ▶** |
+| ------------- | ------------- |
 | [[commandment06]] | [[commandment08]] |
 
 **The 10 Commandments (shortcut):** 

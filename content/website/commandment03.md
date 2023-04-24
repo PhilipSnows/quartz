@@ -14,8 +14,6 @@ Pay to Win allows players to **quickly reach a level where PVP is no longer fun 
 
 A whale has clear advantages over F2P Players, but **F2P Veterans can compete.**
 
-[[guide#The 10 Commandments|Link Back to 10 Commandments]]
-
 ## The P2W Advantage 🐳
 >"Aye, aye! It was that accursed white whale that razeed me; made a poor pegging lubber of me for ever and a day!"
 >— Captain Ahab, a F2P Player
@@ -73,8 +71,8 @@ Buying resources is simply too expensive. **Some money would help**, but **not a
 **Catching up** to players with a high Magic Book Level (veterans) will be **almost as difficult for most whales** as it will be for you. Nobody escapes the grind.
 
 ---
-| **◀ PREVIOUS**----------------------------------|----------------------------------**NEXT ▶** |
-| ------------------------------------------- | ----------------------------------------|
+| **◀ PREVIOUS**    | ---------- **NEXT ▶** |
+| ------------- | ------------- |
 | [[commandment02]] | [[commandment04]] |
 
 **The 10 Commandments (shortcut):** 

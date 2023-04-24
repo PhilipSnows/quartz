@@ -14,8 +14,6 @@ The difference in power between F2P Players and whales is (usually) small. The o
 
 All players **just want to have fun in PVP**, they only differ in how to pursue that.
 
-[[guide#The 10 Commandments|Link Back to 10 Commandments]]
-
 ## The PVE Grind
 >"The silver doe burst from the tip of his wand. Not from some lousy stick, not from some 2-Galleon twig, but from the tip of the most magnificent, the most powerful P2Wand the World has ever seen. 'You have been saving,' said Dumbledore in disbelief, 'all this time?'"
 >— Harry Potter and the F2P Veteran
@@ -64,8 +62,8 @@ So, to become a Veteran, follow the **F2P Code:**
 ![600](https://i.imgur.com/vmBQvQo.png)
 
 ---
-| **◀ PREVIOUS**----------------------------------|----------------------------------**NEXT ▶** |
-| ------------------------------------------- | ----------------------------------------|
+| **◀ PREVIOUS**    | ---------- **NEXT ▶** |
+| ------------- | ------------- |
 | [[commandment01]] | [[commandment03]] |
 
 **The 10 Commandments (shortcut):** 

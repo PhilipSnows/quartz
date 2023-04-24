@@ -12,8 +12,6 @@ Gacha cosmetic items are **time-limited** to entice Fear of Missing Out (**FOMO*
 
 P2Wands are the only Gacha items in the game that grant significant gameplay advantages. Thankfully, there is a way to **win Gacha prizes for free.**
 
-[[guide#The 10 Commandments|Link Back to 10 Commandments]]
-
 ## P2Wands
 >"The wizard chooses the wand, Mr. Potter, and it's always clear why."
 >— Harry Potter and the Disloyal Wand Bearer
@@ -67,8 +65,8 @@ Some people have spent well over $10,000 on this game chasing **time-limited** c
 ![600](https://i.imgur.com/JGiCwwm.png)
 
 ---
-| **◀ PREVIOUS**----------------------------------|----------------------------------**NEXT ▶** |
-| ------------------------------------------- | ----------------------------------------|
+| **◀ PREVIOUS**    | ---------- **NEXT ▶** |
+| ------------- | ------------- |
 | [[commandment04]] | [[commandment06]] |
 
 **The 10 Commandments (shortcut):** 

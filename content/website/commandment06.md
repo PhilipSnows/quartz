@@ -10,8 +10,6 @@ The **grind for power can get boring**, and combined with the inevitable frustra
 
 Taking a **break from the game** or finding **other ways to have fun** is **better for your progress**, but investing in cosmetics can be fun too. In the end, having fun is the most important thing. **The choice is yours.**
 
-[[guide#The 10 Commandments|Link Back to 10 Commandments]]
-
 ## F2P Vs Whale Cosmetics 🐳
 >"He was holding up something that looked to Harry like a long, maroon velvet dress. It had a moldy-looking lace frill at the collar and matching lace cuffs. “You’ve got to be kidding,” said Ron in disbelief. “I’m not wearing that, no way.”
 >— F2P King complaining about F2P Cosmetics
@@ -65,8 +63,8 @@ Your room will **grow slowly with F2P cosmetics** anyway. Give preference to Cos
 ![600](https://i.imgur.com/jT4CduN.png)
 
 ---
-| **◀ PREVIOUS**----------------------------------|----------------------------------**NEXT ▶** |
-| ------------------------------------------- | ----------------------------------------|
+| **◀ PREVIOUS**    | ---------- **NEXT ▶** |
+| ------------- | ------------- |
 | [[commandment05]] | [[commandment07]] |
 
 **The 10 Commandments (shortcut):** 

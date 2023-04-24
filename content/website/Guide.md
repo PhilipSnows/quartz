@@ -39,8 +39,8 @@ The secret to survive as a F2P Player will be repeated a lot in this guide: **re
 9. [[commandment09|You Shall Upgrade Strategically]]
 10. [[commandment10|You Shall Not Pass 🧙🏻‍♂️]]
 
-| **◀ PREVIOUS**----------------------------------|----------------------------------**NEXT ▶** |
-| ------------------------------------------- | ----------------------------------------|
+| **◀ PREVIOUS**    | ---------- **NEXT ▶** |
+| ------------- | ------------- |
 | You Are in The Main Page | [[commandment01]] |
 
 ---
@@ -48,7 +48,7 @@ The secret to survive as a F2P Player will be repeated a lot in this guide: **re
 ## Resources Every Player Should Know About
 * [Magic Awakened Discord (Fan Server)](https://discord.gg/harry-potter-magic-awakened-769046926825750538)
 * [Magic Awakened Discord (Official Server)](https://discord.gg/harrypottermagicawakened)
-* [Magic Awakened Database](awakened-db.com)
+* [Magic Awakened Database](https://awakened-db.com)
 * [Gorou's Cheat Sheet](https://docs.google.com/spreadsheets/d/12EwLWrgKqqKUhiBkZzKyK0RVNHT5CUHQh6geWi4z0M4/edit#gid=0)
 
 ### YouTube Channels
@@ -84,7 +84,7 @@ This is a free guide with no commercial value. It should be protected under Fair
 * The Matrix, Warner Bros.
 * The original Jedi and Sith Code from Star Wars
 * Magic Awakened Wallpaper by Zhui Chuang
-* Illustrations found on [Harry Potter Fanzone](harrypotterfanzone.com)
+* Illustrations found on [Harry Potter Fanzone](https://harrypotterfanzone.com)
 * Gameplay screenshots from [Ayaya Records](https://www.youtube.com/@ayayarecords5794)
 * Gameplay screenshots from [AnimagusYT](https://www.youtube.com/@AnimagusYT)
 * Gameplay screenshots from [Harry Potter Magic Awakened Central](https://www.youtube.com/@HPCentral)

@@ -85,8 +85,8 @@ The problem, of course, is that most players would take a lot of time between up
 **Why this might be the best strategy:** this is the mathematically optimal use of resources. The only reason why most players invest in cards they never use is because they lack the resources to do otherwise, or they want to upgrade their Magic Book.
 
 ---
-| **◀ PREVIOUS**----------------------------------|----------------------------------**NEXT ▶** |
-| ------------------------------------------- | ----------------------------------------|
+| **◀ PREVIOUS**    | ---------- **NEXT ▶** |
+| ------------- | ------------- |
 | [[commandment08]] | [[commandment10]] |
 
 **The 10 Commandments (shortcut):** 

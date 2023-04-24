@@ -86,8 +86,8 @@ It's better to have a **variety of good Echos** instead of a single perfect Echo
 ![600](https://i.imgur.com/hKKMGvd.png)
 
 ---
-| **◀ PREVIOUS**----------------------------------|----------------------------------**NEXT ▶** |
-| ------------------------------------------- | ----------------------------------------|
+| **◀ PREVIOUS**    | ---------- **NEXT ▶** |
+| ------------- | ------------- |
 | [[guide]] | [[commandment02]] |
 
 **The 10 Commandments (shortcut):** 

@@ -10,8 +10,6 @@ This is not a guide about specific decks, so it will **not enter into great deta
 
 The **meta is ever changing**, and varies by PVP rank, but over time you'll learn **what are the Meta Decks.**
 
-[[guide#The 10 Commandments|Link Back to 10 Commandments]]
-
 ## Dobby Avada: The Whale Hunter
 
 ![600](https://i.imgur.com/CmlXIce.png)
@@ -59,8 +57,8 @@ The biggest problem of Summon Decks for F2P Players is that summon cards **do no
 **F2P Players should play Mixed Decks if they like them more than Spell Decks.** There are no P2W Decks, so you can play anything you like. But upgrades are costly, so you should find a **Meta Deck with a greater focus on spell cards.**
 
 ---
-| **◀ PREVIOUS**----------------------------------|----------------------------------**NEXT ▶** |
-| ------------------------------------------- | ----------------------------------------|
+| **◀ PREVIOUS**    | ---------- **NEXT ▶** |
+| ------------- | ------------- |
 | [[commandment07]] | [[commandment09]] |
 
 **The 10 Commandments (shortcut):** 

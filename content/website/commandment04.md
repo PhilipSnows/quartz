@@ -12,8 +12,6 @@ When people complain about **whales**, **veterans**, or **P2W**, they are actual
 
 **The Matchmaking Wall** is very **frustrating**, it **pushes many players away** from PVP (and the game) altogether.
 
-[[guide#The 10 Commandments|Link Back to 10 Commandments]]
-
 ## The Eight Types of Players
 >"There will be eight Harry Potters moving through the Dueling Halls tonight, each of them in a paid outfit, or a filthy rag, depending on their playstyle.”
 >— Harry Potter and the Deathly Whales 🐳
@@ -73,8 +71,8 @@ Magic Awakened is great, but the matchmaking system sucks.
 ![600](https://i.imgur.com/FfGH1jt.png)
 
 ---
-| **◀ PREVIOUS**----------------------------------|----------------------------------**NEXT ▶** |
-| ------------------------------------------- | ----------------------------------------|
+| **◀ PREVIOUS**    | ---------- **NEXT ▶** |
+| ------------- | ------------- |
 | [[commandment03]] | [[commandment05]] |
 
 **The 10 Commandments (shortcut):** 

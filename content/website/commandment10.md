@@ -16,8 +16,6 @@ Come back when **new PVE content is added**, new **Dueling Season** begins. Mayb
 
 **Don't bang your head against the wall.**
 
-[[guide#The 10 Commandments|Link Back to 10 Commandments]]
-
 ## The Whale & the F2P Player
 
 ![600](https://i.imgur.com/hqZTq9e.jpg)
@@ -41,8 +39,8 @@ Moral of the story: The whale usually wins.
 ![600](https://i.imgur.com/6SGhbU1.jpg)
 
 ---
-| **◀ PREVIOUS**----------------------------------|----------------------------------**NEXT ▶** |
-| ------------------------------------------- | ----------------------------------------|
+| **◀ PREVIOUS**    | ---------- **NEXT ▶** |
+| ------------- | ------------- |
 | [[commandment09]] | **See ya in the Dueling Hall** 🧙🏻‍♂️ |
 
 **The 10 Commandments (shortcut):** 
