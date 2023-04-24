@@ -1,3 +1,5 @@
+**Magic Awakened F2P Guide**
+
 This is a fan work, freely given to the community. Contact creators on Discord, GitHub or Google if you want to help or change anything. Sources at the end.
 
 # Introduction
@@ -28,18 +30,18 @@ The secret to survive as a F2P Player will be repeated a lot in this guide: **re
 
 **The 10 Commandments** just detail **how** and **why.** Commandments are:
 
-1. You Shall Invest in Power
-2. You Shall Become a Veteran
-3. You Shall Not Whine About P2W
-4. You Shall Whine About Matchmaking
-5. You Shall Not Gamble... Often
-6. You Shall Not Crave Thy Neighbor's Cosmetics
-7. You Shall Hoard Like a Dragon
-8. You Shall Use Meta Decks
-9. You Shall Upgrade Strategically
-10. You Shall Not Pass 🧙🏻‍♂️
+1. [[guide#1-You Shall Invest in Power|You Shall Invest in Power]]
+2. [[guide#2-You Shall Become a Veteran|You Shall Become a Veteran]]
+3. [[guide#3-You Shall Not Whine About P2W|You Shall Not Whine About P2W]]
+4. [[guide#4-You Shall Whine About Matchmaking|You Shall Whine About Matchmaking]]
+5. [[guide#5-You Shall Not Gamble... Often|You Shall Not Gamble... Often]]
+6. [[guide#6-You Shall Not Crave Thy Neighbor's Cosmetics|You Shall Not Crave Thy Neighbor's Cosmetics]]
+7. [[guide#7-You Shall Hoard Like a Dragon|You Shall Hoard Like a Dragon]]
+8. [[guide#8-You Shall Use Meta Decks|You Shall Use Meta Decks]]
+9. [[guide#9-You Shall Upgrade Strategically|You Shall Upgrade Strategically]]
+10. [[guide#10-You Shall Not Pass 🧙🏻‍♂️|You Shall Not Pass 🧙🏻‍♂️]]
 
-# 1. You Shall Invest in Power
+# 1-You Shall Invest in Power
 >“It is a curious thing, Harry, but perhaps those who are best suited to power are those who have never sought it, they just buy it with a credit card."
 >— Dumbledore talking nonsense
 
@@ -52,6 +54,8 @@ One trick to **make things easier** when you don't understand something is to as
 There are **three interconnected systems of power** in the game: Magic Book, Card Upgrade, and Echo.
 
 The better you **understand those systems**, the easier it gets.
+
+[[guide#The 10 Commandments|Link Back to 10 Commandments]]
 
 ## Magic Book System
 >"Ron speared a roast potato on the end of his fork, glaring at it. Then he said, 'I hate being poor.'"
@@ -126,7 +130,7 @@ It's better to have a **variety of good Echos** instead of a single perfect Echo
 
 ![600](https://i.imgur.com/hKKMGvd.png)
 
-# 2. You Shall Become a Veteran
+# 2-You Shall Become a Veteran
 > Is the game Pay to Win? Is the dark side stronger?
 > — Young Padawan asking reasonable questions.
 
@@ -141,6 +145,8 @@ As a F2P Player, It is understandable to get frustrated by P2W. A player who inv
 The difference in power between F2P Players and whales is (usually) small. The only P2W item that grants any amount of power in this game is a **P2Wand**, and F2P Players can **get one by saving resources and biding their time.**
 
 All players **just want to have fun in PVP**, they only differ in how to pursue that.
+
+[[guide#The 10 Commandments|Link Back to 10 Commandments]]
 
 ## The PVE Grind
 >"The silver doe burst from the tip of his wand. Not from some lousy stick, not from some 2-Galleon twig, but from the tip of the most magnificent, the most powerful P2Wand the World has ever seen. 'You have been saving,' said Dumbledore in disbelief, 'all this time?'"
@@ -189,7 +195,7 @@ So, to become a Veteran, follow the **F2P Code:**
 
 ![600](https://i.imgur.com/vmBQvQo.png)
 
-# 3. You Shall Not Whine About P2W
+# 3-You Shall Not Whine About P2W
 >Good... use your aggressive feelings, player. Let the hate flow through you.
 >—Darth Voldemort pushing you to the Dark Side
 
@@ -204,6 +210,8 @@ Whales can pay to complete the **Battle Pass** without playing. Whales can pay t
 Pay to Win allows players to **quickly reach a level where PVP is no longer fun (the Matchmaking Wall).** Magic Awakened is a game, **it's supposed to be fun.** Frustration reduces playtime, and playing less costs potential resources.
 
 A whale has clear advantages over F2P Players, but **F2P Veterans can compete.**
+
+[[guide#The 10 Commandments|Link Back to 10 Commandments]]
 
 ## The P2W Advantage 🐳
 >"Aye, aye! It was that accursed white whale that razeed me; made a poor pegging lubber of me for ever and a day!"
@@ -261,7 +269,7 @@ Buying resources is simply too expensive. **Some money would help**, but **not a
 
 **Catching up** to players with a high Magic Book Level (veterans) will be **almost as difficult for most whales** as it will be for you. Nobody escapes the grind.
 
-# 4. You Shall Whine About Matchmaking
+# 4-You Shall Whine About Matchmaking
 
 ![](https://i.imgur.com/kUM8ljj.jpg)
 
@@ -274,6 +282,8 @@ Eventually you will encounter opponents you can't defeat with only your **skill.
 When people complain about **whales**, **veterans**, or **P2W**, they are actually complaining about the **Matchmaking System.** Players complain about the Matchmaking System because of the **Matchmaking Wall.**
 
 **The Matchmaking Wall** is very **frustrating**, it **pushes many players away** from PVP (and the game) altogether.
+
+[[guide#The 10 Commandments|Link Back to 10 Commandments]]
 
 ## The Eight Types of Players
 >"There will be eight Harry Potters moving through the Dueling Halls tonight, each of them in a paid outfit, or a filthy rag, depending on their playstyle.”
@@ -333,7 +343,7 @@ Magic Awakened is great, but the matchmaking system sucks.
 
 ![600](https://i.imgur.com/FfGH1jt.png)
 
-# 5. You Shall Not Gamble... Often
+# 5-You Shall Not Gamble... Often
 >“We’ll bet thirty-seven Galleons, fifteen Gems, three Gold Coins,” said Fred as he and George quickly pooled all their money,“ that Ireland wins — but Viktor Krum gets the Snitch. Oh and we’ll throw in a P2Wand.”
 >— Harry Potter and the Magical Bookie
 
@@ -344,6 +354,8 @@ Magic Awakened has **elements of many types of games.** Players don't pull the w
 Gacha cosmetic items are **time-limited** to entice Fear of Missing Out (**FOMO**). F2P Players can, **and should**, ignore this aspect of the game, except for one thing: A powerful **P2Wand.**
 
 P2Wands are the only Gacha items in the game that grant significant gameplay advantages. Thankfully, there is a way to **win Gacha prizes for free.**
+
+[[guide#The 10 Commandments|Link Back to 10 Commandments]]
 
 ![](https://i.imgur.com/CV16o92.jpg)
 
@@ -399,7 +411,7 @@ Some people have spent well over $10,000 on this game chasing **time-limited** c
 
 ![600](https://i.imgur.com/JGiCwwm.png)
 
-# 6. You Shall Not Crave Thy Neighbor's Cosmetics
+# 6-You Shall Not Crave Thy Neighbor's Cosmetics
 
 ![600](https://i.imgur.com/EAhXEOX.png)
 
@@ -410,6 +422,8 @@ The **social aspects of Magic Awakened can put some pressure on you** to chase c
 The **grind for power can get boring**, and combined with the inevitable frustration you will (eventually) experience with PVP, you may prefer to **focus on cosmetics to continue having fun.**
 
 Taking a **break from the game** or finding **other ways to have fun** is **better for your progress**, but investing in cosmetics can be fun too. In the end, having fun is the most important thing. **The choice is yours.**
+
+[[guide#The 10 Commandments|Link Back to 10 Commandments]]
 
 ## F2P Vs Whale Cosmetics 🐳
 >"He was holding up something that looked to Harry like a long, maroon velvet dress. It had a moldy-looking lace frill at the collar and matching lace cuffs. “You’ve got to be kidding,” said Ron in disbelief. “I’m not wearing that, no way.”
@@ -463,7 +477,7 @@ Your room will **grow slowly with F2P cosmetics** anyway. Give preference to Cos
 
 ![600](https://i.imgur.com/jT4CduN.png)
 
-# 7. You Shall Hoard Like a Dragon 
+# 7-You Shall Hoard Like a Dragon 
 
 ![600](https://i.imgur.com/Uog6df6.jpg)
 
@@ -476,6 +490,8 @@ Invoke your inner Smaug and hoard. **Hoarding resources is the key to success** 
 Most of the time it's best to hoard resources for **something expensive.** This guide gives you advice about **how to spend** your main resources.
 
 Remember the Dragon's Rule: **when in doubt, hoard it.**
+
+[[guide#The 10 Commandments|Link Back to 10 Commandments]]
 
 ## Gold
 >“Must be nice, to have so much money you don’t notice if a pocketful of Galleons goes missing.”
@@ -682,7 +698,7 @@ You can buy Starstones with real money. My advice if you decide to buy those pin
 
 ![600](https://i.imgur.com/IWO0CIL.jpg)
 
-# 8. You Shall Use Meta Decks
+# 8-You Shall Use Meta Decks
 
 ![600](https://i.imgur.com/dCn8CQz.jpg)
 
@@ -693,6 +709,8 @@ Unlike many Collectible Card Games (CCG), you can acquire every card in this gam
 This is not a guide about specific decks, so it will **not enter into great detail** about any of them. This is just general advice for **F2P Players to choose suitable Meta Decks.**
 
 The **meta is ever changing**, and varies by PVP rank, but over time you'll learn **what are the Meta Decks.**
+
+[[guide#The 10 Commandments|Link Back to 10 Commandments]]
 
 ## Dobby Avada: The Whale Hunter
 
@@ -740,7 +758,7 @@ The biggest problem of Summon Decks for F2P Players is that summon cards **do no
 
 **F2P Players should play Mixed Decks if they like them more than Spell Decks.** There are no P2W Decks, so you can play anything you like. But upgrades are costly, so you should find a **Meta Deck with a greater focus on spell cards.**
 
-# 9. You Shall Upgrade Strategically
+# 9-You Shall Upgrade Strategically
 >"Ravenclaws are a bunch of nerds. You overthink everything."
 >—Shut up.
 
@@ -755,6 +773,8 @@ There are **three paths (strategies) for upgrading cards**, each with advantages
 * **Slow path:** High Magic Book Level, High Deck Level Average
 
 What you do is up to you. It is **too soon to claim there is an optimal strategy** to follow.
+
+[[guide#The 10 Commandments|Link Back to 10 Commandments]]
 
 ![600](https://i.imgur.com/pxUxemG.png)
 
@@ -826,7 +846,7 @@ The problem, of course, is that most players would take a lot of time between up
 
 **Why this might be the best strategy:** this is the mathematically optimal use of resources. The only reason why most players invest in cards they never use is because they lack the resources to do otherwise, or they want to upgrade their Magic Book.
 
-# 10. You Shall Not Pass 🧙🏻‍♂️
+# 10-You Shall Not Pass 🧙🏻‍♂️
 
 ![600](https://i.imgur.com/mG01rSJ.png)
 
@@ -843,6 +863,8 @@ This game is amazing, but **PVE** content will **run out** and **PVP will get fr
 Come back when **new PVE content is added**, new **Dueling Season** begins. Maybe help improve this guide for F2P Players ( *wink, wink* ).
 
 **Don't bang your head against the wall.**
+
+[[guide#The 10 Commandments|Link Back to 10 Commandments]]
 
 ## The Whale & the F2P Player
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guide.md",
+                "file": "guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guide.md",
+                "file": "guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guide.md",
+                "file": "guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guide.md"
+                "file": "guide.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a93163767204584",
+  "active": "4c17ec806fa45896",
   "lastOpenFiles": [
+    "[[Guide.md",
+    "guide.md",
+    "_index.md",
     "Test file.md",
-    "Guide.md",
     "Untitled.md"
   ]
 }
