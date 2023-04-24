@@ -1,12 +1,12 @@
----
+﻿---
 title: Magic Awakened F2P Guide
 enableToc: true
 ---
-**Magic Awakened F2P Guide**
+# **Magic Awakened F2P Guide**
 
 This is a fan work, freely given to the community. Contact creators on Discord, GitHub or Google if you want to help or change anything. Sources at the end.
 
-# Introduction
+## Introduction
 >"The player's body turned into his dueling partner, spread-eagled on her back, her eyes wide open and empty. The player sobbed harder than ever. 'R-riddikulus!' he sobbed again. Crack. A whale replaced the body, an absurd amount of HP, basic attacks dealing twice as much damage. 'No!' The player moaned. 'No ... riddikulus! Riddikulus! RIDDIKULUS!' Crack. P2W Wands. Crack. Deck filled with Level 15 Cards. Crack. Max Level Legendary Echos with +3 bonuses ..."
 >— Harry Potter and the Cursed Whale 🐳
 
@@ -25,9 +25,7 @@ There is no need to read the entire guide back to back. **Just do the following:
 
 1. Go to a main section;
 2. Skip quotes and memes if you hate fun;
-3. Read the summary;
-4. Read sub-sections if it interests you;
-5. Scroll down to find links to another section;
+3. Read it or skip to new links at the end.
 
 ## The 10 Commandments
 The secret to survive as a F2P Player will be repeated a lot in this guide: **resource management.** Always.
@@ -45,15 +43,19 @@ The secret to survive as a F2P Player will be repeated a lot in this guide: **re
 9. [[Commandment 09|You Shall Upgrade Strategically]]
 10. [[Commandment 10|You Shall Not Pass 🧙🏻‍♂️]]
 
+| **◀ PREVIOUS**----------------------------------|----------------------------------**NEXT ▶** |
+| ------------------------------------------- | ----------------------------------------|
+| You Are in The Main Page | [[Commandment 01]] |
+
 ---
 
-# Resources Every Player Should Know About
+## Resources Every Player Should Know About
 * [Magic Awakened Discord (Fan Server)](https://discord.gg/harry-potter-magic-awakened-769046926825750538)
 * [Magic Awakened Discord (Official Server)](https://discord.gg/harrypottermagicawakened)
 * [Magic Awakened Database](awakened-db.com)
 * [Gorou's Cheat Sheet](https://docs.google.com/spreadsheets/d/12EwLWrgKqqKUhiBkZzKyK0RVNHT5CUHQh6geWi4z0M4/edit#gid=0)
 
-## YouTube Channels
+### YouTube Channels
 There are some great Magic Awakened YouTube Channels. Contact me if you'd like yours added to the list.
 
 English Language Channels:
@@ -69,7 +71,7 @@ Portuguese (BR) Language Channels:
 * [Marcos Strongest](https://www.youtube.com/@MarcosStrongest)
 * [Lumei](https://www.youtube.com/@Lumei)
 
-# Copyright & Fair Use
+## Copyright & Fair Use
 
 This is a free guide with no commercial value. It should be protected under Fair Use. If a **copyright holder** disagrees and would like assets removed, **contact us and it shall be done**. Thank you.
 
