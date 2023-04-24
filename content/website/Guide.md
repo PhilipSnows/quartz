@@ -41,7 +41,7 @@ The secret to survive as a F2P Player will be repeated a lot in this guide: **re
 9. [[guide#9-You Shall Upgrade Strategically|You Shall Upgrade Strategically]]
 10. [[guide#10-You Shall Not Pass 🧙🏻‍♂️|You Shall Not Pass 🧙🏻‍♂️]]
 
-# 1-You Shall Invest in Power
+# You Shall Invest in Power
 >“It is a curious thing, Harry, but perhaps those who are best suited to power are those who have never sought it, they just buy it with a credit card."
 >— Dumbledore talking nonsense
 
@@ -55,7 +55,9 @@ There are **three interconnected systems of power** in the game: Magic Book, Car
 
 The better you **understand those systems**, the easier it gets.
 
-[[guide#The 10 Commandments|Link Back to 10 Commandments]]
+[[guide#The 10 Commandments|☝ Link Back to 10 Commandments]]
+
+[[guide#You Shall Become a Veteran|👇 Link to Next Commandment]]
 
 ## Magic Book System
 >"Ron speared a roast potato on the end of his fork, glaring at it. Then he said, 'I hate being poor.'"
@@ -130,7 +132,7 @@ It's better to have a **variety of good Echos** instead of a single perfect Echo
 
 ![600](https://i.imgur.com/hKKMGvd.png)
 
-# 2-You Shall Become a Veteran
+# You Shall Become a Veteran
 > Is the game Pay to Win? Is the dark side stronger?
 > — Young Padawan asking reasonable questions.
 
@@ -195,7 +197,7 @@ So, to become a Veteran, follow the **F2P Code:**
 
 ![600](https://i.imgur.com/vmBQvQo.png)
 
-# 3-You Shall Not Whine About P2W
+# You Shall Not Whine About P2W
 >Good... use your aggressive feelings, player. Let the hate flow through you.
 >—Darth Voldemort pushing you to the Dark Side
 
@@ -269,7 +271,7 @@ Buying resources is simply too expensive. **Some money would help**, but **not a
 
 **Catching up** to players with a high Magic Book Level (veterans) will be **almost as difficult for most whales** as it will be for you. Nobody escapes the grind.
 
-# 4-You Shall Whine About Matchmaking
+# You Shall Whine About Matchmaking
 
 ![](https://i.imgur.com/kUM8ljj.jpg)
 
@@ -343,7 +345,7 @@ Magic Awakened is great, but the matchmaking system sucks.
 
 ![600](https://i.imgur.com/FfGH1jt.png)
 
-# 5-You Shall Not Gamble... Often
+# You Shall Not Gamble... Often
 >“We’ll bet thirty-seven Galleons, fifteen Gems, three Gold Coins,” said Fred as he and George quickly pooled all their money,“ that Ireland wins — but Viktor Krum gets the Snitch. Oh and we’ll throw in a P2Wand.”
 >— Harry Potter and the Magical Bookie
 
@@ -411,7 +413,7 @@ Some people have spent well over $10,000 on this game chasing **time-limited** c
 
 ![600](https://i.imgur.com/JGiCwwm.png)
 
-# 6-You Shall Not Crave Thy Neighbor's Cosmetics
+# You Shall Not Crave Thy Neighbor's Cosmetics
 
 ![600](https://i.imgur.com/EAhXEOX.png)
 
@@ -477,7 +479,7 @@ Your room will **grow slowly with F2P cosmetics** anyway. Give preference to Cos
 
 ![600](https://i.imgur.com/jT4CduN.png)
 
-# 7-You Shall Hoard Like a Dragon 
+# You Shall Hoard Like a Dragon 
 
 ![600](https://i.imgur.com/Uog6df6.jpg)
 
@@ -698,7 +700,7 @@ You can buy Starstones with real money. My advice if you decide to buy those pin
 
 ![600](https://i.imgur.com/IWO0CIL.jpg)
 
-# 8-You Shall Use Meta Decks
+# You Shall Use Meta Decks
 
 ![600](https://i.imgur.com/dCn8CQz.jpg)
 
@@ -758,7 +760,7 @@ The biggest problem of Summon Decks for F2P Players is that summon cards **do no
 
 **F2P Players should play Mixed Decks if they like them more than Spell Decks.** There are no P2W Decks, so you can play anything you like. But upgrades are costly, so you should find a **Meta Deck with a greater focus on spell cards.**
 
-# 9-You Shall Upgrade Strategically
+# You Shall Upgrade Strategically
 >"Ravenclaws are a bunch of nerds. You overthink everything."
 >—Shut up.
 
@@ -846,7 +848,7 @@ The problem, of course, is that most players would take a lot of time between up
 
 **Why this might be the best strategy:** this is the mathematically optimal use of resources. The only reason why most players invest in cards they never use is because they lack the resources to do otherwise, or they want to upgrade their Magic Book.
 
-# 10-You Shall Not Pass 🧙🏻‍♂️
+# You Shall Not Pass 🧙🏻‍♂️
 
 ![600](https://i.imgur.com/mG01rSJ.png)
 

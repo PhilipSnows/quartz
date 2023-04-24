@@ -1,10 +1,10 @@
 ﻿name: Bornogo
 enableToc: true
 openToc: false
-enableLinkPreview: true
+enableLinkPreview: false
 enableLatex: true
-enableCodeBlockTitle: true
-enableCodeBlockCopy: true
+enableCodeBlockTitle: false
+enableCodeBlockCopy: fase
 enableCallouts: true
 enableSPA: true
 enableFooter: true
@@ -20,7 +20,7 @@ search:
 description:
   Harry Potter Magic Awakened F2P Guide 
 page_title:
-  "Bornogo"
+  "Magic Awakened F2P Guide"
 links:
   - link_name: Discord
     link: https://discord.gg/harry-potter-magic-awakened-community-769046926825750538
