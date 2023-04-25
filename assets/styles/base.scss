@@ -8,7 +8,7 @@
 
 // typography
 b, strong {
-    h1, h2, h3, h4, color: #ff82b2;
+    color: #ff82b2;
 }
 
 html {
@@ -17,6 +17,7 @@ html {
     & p, & h1, & h2, & h3, article, header {
       direction: rtl;
       text-align: right;
+	  color: #ff82b2;
     }
   }
   & footer > p {
@@ -187,6 +188,7 @@ article {
   & > h1 {
     margin-top: 2em;
     font-size: 2em;
+	color: #ff82b2;
   }
 
   & > .meta {
