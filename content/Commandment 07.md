@@ -13,8 +13,9 @@ Most of the time it's best to hoard resources for **something expensive.** This 
 Remember the Dragon's Rule: **when in doubt, hoard it.**
 
 ## Gold
->“Must be nice, to have so much money you don’t notice if a pocketful of Galleons goes missing.”
->— Ron "F2P King" Weasley
+>[!quote] “Must be nice, to have so much money you don’t notice if a pocketful of Galleons goes missing.”
+>
+>—Ron "F2P King" Weasley
 
 ![600](https://i.imgur.com/82CaNV7.png)
 
@@ -210,10 +211,11 @@ Once you choose a Meta Deck you like, you will have a **list of priority cards t
 Trade Coins and Wild Cards **don't need to be hoarded**, but they should be **used well.** Use them on your preferred Meta Deck as soon as you can.
 
 ## Star $tones 🐳
->"The surfaces had all been draped in lacy covers and paid outfits. There were several vases full of dried flowers, each one residing on its own doily, and on one of the walls was a collection of ornamental plates, each decorated with a large technicolor Gacha kitten wearing a different bow around its neck. These were so foul that the player stared at them, transfixed, until the whale entered the dueling hall holding a P2Wand."
->— How it feels like too find a whale in PVP
+>[!quote] "The surfaces had all been draped in lacy covers and paid outfits. There were several vases full of dried flowers, each one residing on its own doily, and on one of the walls was a collection of ornamental plates, each decorated with a large technicolor Gacha kitten wearing a different bow around its neck. These were so foul that the player stared at them, transfixed, until the whale entered the dueling hall holding a P2Wand."
+>
+>—How it feels like too find a whale in PVP
 
-You can buy Starstones with real money. My advice if you decide to buy those pink abominations is to spend it all on fabulous cosmetics and never, ever, play dueling matches against me. Lord Voldemort put a terrible curse on such duelists. You have been warned.
+You can buy Starstones with real **money.** My advice if you decide to buy those **pink abominations** is to spend it all on fabulous **cosmetics** and never, ever, play dueling matches against me. Lord Voldemort put a terrible curse on such duelists. You have been warned.
 
 ![600](https://i.imgur.com/IWO0CIL.jpg)
 

@@ -1,7 +1,7 @@
 # 2. You Shall Become a Veteran
 >[!quote] Is the game Pay to Win? Is the dark side stronger?
 >
-> — Young Padawan asking reasonable questions.
+> —Young Padawan asking reasonable questions.
 
 ![600](https://i.imgur.com/lQUzSm2.png)
 
@@ -16,8 +16,9 @@ The difference in power between F2P Players and whales is (usually) small. The o
 All players **just want to have fun in PVP**, they only differ in how to pursue that.
 
 ## The PVE Grind
->"The silver doe burst from the tip of his wand. Not from some lousy stick, not from some 2-Galleon twig, but from the tip of the most magnificent, the most powerful P2Wand the World has ever seen. 'You have been saving,' said Dumbledore in disbelief, 'all this time?'"
->— Harry Potter and the F2P Veteran
+>[!quote] "The silver doe burst from the tip of his wand. Not from some lousy stick, not from some 2-Galleon twig, but from the tip of the most magnificent, the most powerful P2Wand the World has ever seen. 'You have been saving,' said Dumbledore in disbelief, 'all this time?'"
+>
+>—Harry Potter and the F2P Veteran
 
 ![600](https://i.imgur.com/beRHmUp.jpg)
 
@@ -45,7 +46,8 @@ It's ok to miss your goals, the most important thing is to **come back to grind*
 ![600](https://i.imgur.com/Rp613PV.png)
 
 ## The F2P Code & Veterans
->"This is the way."
+>[!hint] "This is the way."
+>
 >—Follow the code, Mudblood
 
 ![300](https://i.imgur.com/HOVbcoI.png)

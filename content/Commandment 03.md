@@ -16,8 +16,9 @@ Pay to Win allows players to **quickly reach a level where PVP is no longer fun 
 A whale has clear advantages over F2P Players, but **F2P Veterans can compete.**
 
 ## The P2W Advantage 🐳
->"Aye, aye! It was that accursed white whale that razeed me; made a poor pegging lubber of me for ever and a day!"
->— Captain Ahab, a F2P Player
+>[!quote] "Aye, aye! It was that accursed white whale that razeed me; made a poor pegging lubber of me for ever and a day!"
+>
+>—Captain Ahab, a F2P Player
 
 ![600](https://i.imgur.com/Ga8R2t5.png)
 
@@ -34,7 +35,8 @@ Whales eat dragons for breakfast. Whales are the most powerful, **and best dress
 ![600](https://i.imgur.com/cjuehNy.png)
 
 ## The P2W Code 🐳
->“You have controlled your fear. Now, open your wallet. Only your savings can destroy me.”
+>[!quote] “You have controlled your fear. Now, open your wallet. Only your savings can destroy me.”
+>
 > —Lord Whale and the teachings of the Dark Side
 
 ![600](https://i.imgur.com/AOqoAM9.png)
@@ -58,8 +60,9 @@ Most whales chase **cosmetics,** not P2W resources. Some whales, however, play b
 ![600](https://i.imgur.com/cADbPHL.png)
 
 ## Whales Vs Veterans
->"There is no good and evil, there is only power, and those too poor to seek it."
->— Lord Whale: He Who Must Not Play Fair
+>[!quote] "There is no good and evil, there is only power, and those too poor to seek it."
+>
+>—Lord Whale: He Who Must Not Play Fair
 
 ![600](https://i.imgur.com/9teJzbN.jpg)
 

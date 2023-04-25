@@ -13,8 +13,9 @@ When people complain about **whales**, **veterans**, or **P2W**, they are actual
 **The Matchmaking Wall** is very **frustrating**, it **pushes many players away** from PVP (and the game) altogether.
 
 ## The Eight Types of Players
->"There will be eight Harry Potters moving through the Dueling Halls tonight, each of them in a paid outfit, or a filthy rag, depending on their playstyle.”
->— Harry Potter and the Deathly Whales 🐳
+>[!quote] "There will be eight Harry Potters moving through the Dueling Halls tonight, each of them in a paid outfit, or a filthy rag, depending on their playstyle.”
+>
+>—Harry Potter and the Deathly Whales 🐳
 
 There are different **types of players** in this game. You have to understand what it means to be a whale in Harry Potter: Magic Awakened. Here is a list of ocean dwellers, **ranked from harmless to scariest:**
 

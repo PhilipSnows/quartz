@@ -1,7 +1,7 @@
 # 1. You Shall Invest in Power
 >[!quote] “It is a curious thing, Harry, but perhaps those who are best suited to power are those who have never sought it, they just buy it with a credit card."
 >
->— Dumbledore talking nonsense
+>—Dumbledore talking nonsense
 
 ![600](https://i.imgur.com/YO2BTgN.jpg)
 
@@ -14,8 +14,9 @@ There are **three interconnected systems of power** in the game: Magic Book, Car
 The better you **understand those systems**, the easier it gets.
 
 ## Magic Book System
->"Ron speared a roast potato on the end of his fork, glaring at it. Then he said, 'I hate being poor.'"
->— Ronald Weasley: kindred spirit, beloved king
+>[!quote] "Ron speared a roast potato on the end of his fork, glaring at it. Then he said, 'I hate being poor.'"
+>
+>—Ronald Weasley: kindred spirit, beloved king
 
 ![600](https://i.imgur.com/n3ywSrE.png)
 
@@ -37,8 +38,9 @@ Resources can be used for a variety of things, in a variety of ways. **A whale m
 ![600](https://i.imgur.com/T9N7SRL.png)
 
 ## Card Upgrade System
->“Insanity is buying cosmetics over and over and expecting to have enough resources to upgrade that one legendary card in your deck.”
->— Enlightened Magic Awakened Player
+>[!quote] “Insanity is buying cosmetics over and over and expecting to have enough resources to upgrade that one legendary card in your deck.”
+>
+>—Enlightened Magic Awakened Player
 
 ![600](https://i.imgur.com/TldArh9.png)
 
@@ -89,7 +91,7 @@ It's better to have a **variety of good Echos** instead of a single perfect Echo
 ---
 | **◀ PREVIOUS**    | ---------- **NEXT ▶** |
 | ------------- | ------------- |
-| [[guide]] | [[Commandment 02]] |
+| [[_index]] | [[Commandment 02]] |
 
 **The 10 Commandments (shortcut):** 
 

@@ -14,8 +14,9 @@ Gacha cosmetic items are **time-limited** to entice Fear of Missing Out (**FOMO*
 P2Wands are the only Gacha items in the game that grant significant gameplay advantages. Thankfully, there is a way to **win Gacha prizes for free.**
 
 ## P2Wands
->"The wizard chooses the wand, Mr. Potter, and it's always clear why."
->— Harry Potter and the Disloyal Wand Bearer
+>[!quote] "The wizard chooses the wand, Mr. Potter, and it's always clear why."
+>
+>—Harry Potter and the Disloyal Wand Bearer
 
 ![600](https://i.imgur.com/DbAUsNz.jpg)
 
@@ -42,7 +43,8 @@ Wands are expensive. **Do not waste resources on crappy wands.**
 ![600](https://i.imgur.com/ZGDMsHJ.jpg)
 
 ## The Gacha Wheel 🐳
->"Turns out he's in big trouble with the goblins. Borrowed loads of gold off them. A gang of them cornered him in the woods after the World Cup and took all the gold he had, and it still wasn't enough to cover all his debts. They followed him all the way to Hogwarts to keep an eye on him. He’s lost everything gambling."
+>[!hint] "Turns out he's in big trouble with the goblins. Borrowed loads of gold off them. A gang of them cornered him in the woods after the World Cup and took all the gold he had, and it still wasn't enough to cover all his debts. They followed him all the way to Hogwarts to keep an eye on him. He’s lost everything gambling."
+>
 >—Gambling is bad, kids
 
 ![600](https://i.imgur.com/d9svSjq.jpg)

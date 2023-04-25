@@ -1,5 +1,5 @@
 # 9. You Shall Upgrade Strategically
->[!quote] "Ravenclaws are a bunch of nerds. You overthink everything."
+>[!hint] "Ravenclaws are a bunch of nerds. You overthink everything."
 >
 >—Shut up.
 
@@ -18,7 +18,8 @@ There are **three paths (strategies) for upgrading cards**, each with advantages
 What you do is up to you. It is **too soon to claim there is an optimal strategy** to follow.
 
 ## Why Upgrade Strategies Matters
->"Your higher rank is the sum of a remainder of an unbalanced equation inherent to the programming of my deck. You are the eventuality of an anomaly, which despite my sincerest efforts I have been unable to eliminate from what is otherwise a harmony of mathematical precision."
+>[!quote] "Your higher rank is the sum of a remainder of an unbalanced equation inherent to the programming of my deck. You are the eventuality of an anomaly, which despite my sincerest efforts I have been unable to eliminate from what is otherwise a harmony of mathematical precision."
+>
 >—The Architect: nerdiest Ravenclaw Duelist
 
 Players repeat the same complaint, from Magic Book Level 1 to Magic Book Level 99: the **Matchmaking System sucks.** The opponent always seems to have **cards a little bit stronger** than yours, at every level. Stronger cards generally signal a **higher Magic Book Level.** This is why you struggle (Matchmaking Wall).
@@ -30,8 +31,9 @@ Imagine both opponents have 1000 HP left and frequently use Expelliarmus. Your c
 ![600](https://i.imgur.com/G1bbd2x.jpg)
 
 ## Fast: The "Everything Goes" Strategy
->"Don't think, just do it."
->— Not a bad strategy, actually
+>[!hint] "Don't think, just do it."
+>
+>—Not a bad strategy, actually
 
 ![600](https://i.imgur.com/6kuR9Hw.jpg)
 

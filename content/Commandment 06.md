@@ -11,8 +11,9 @@ The **grind for power can get boring**, and combined with the inevitable frustra
 Taking a **break from the game** or finding **other ways to have fun** is **better for your progress**, but investing in cosmetics can be fun too. In the end, having fun is the most important thing. **The choice is yours.**
 
 ## F2P Vs Whale Cosmetics 🐳
->"He was holding up something that looked to Harry like a long, maroon velvet dress. It had a moldy-looking lace frill at the collar and matching lace cuffs. “You’ve got to be kidding,” said Ron in disbelief. “I’m not wearing that, no way.”
->— F2P King complaining about F2P Cosmetics
+>[!quote] "He was holding up something that looked to Harry like a long, maroon velvet dress. It had a moldy-looking lace frill at the collar and matching lace cuffs. “You’ve got to be kidding,” said Ron in disbelief. “I’m not wearing that, no way.”
+>
+>—F2P King complaining about F2P Cosmetics
 
 ![600](https://i.imgur.com/96Vt6NV.jpg)
 
@@ -43,8 +44,9 @@ And the initial advice remains: you should ignore cosmetics and **focus on power
 ![600](https://i.imgur.com/3i0qWV7.jpg)
 
 ## Collection Points 🐳
->"'So, this is the F2P room?' said Ron, strolling over to a dingy door in the corner opposite the pantry. Harry had never seen it open. A nest-like jumbled pile of assorted rags and blankets with a small dent to show where F2P Players curl up to sleep every night."
->— Harry Potter and the Real State System
+>[!quote] "'So, this is the F2P room?' said Ron, strolling over to a dingy door in the corner opposite the pantry. Harry had never seen it open. A nest-like jumbled pile of assorted rags and blankets with a small dent to show where F2P Players curl up to sleep every night."
+>
+>—Harry Potter and the Real State System
 
 ![600](https://i.imgur.com/rIDEf6j.jpg)
 
