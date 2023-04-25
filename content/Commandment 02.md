@@ -1,5 +1,5 @@
 # 2. You Shall Become a Veteran
-> Is the game Pay to Win? Is the dark side stronger?
+>[!quote] Is the game Pay to Win? Is the dark side stronger?
 > — Young Padawan asking reasonable questions.
 
 ![600](https://i.imgur.com/lQUzSm2.png)

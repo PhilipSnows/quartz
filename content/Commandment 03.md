@@ -1,5 +1,5 @@
 # 3. You Shall Not Whine About P2W
->Good... use your aggressive feelings, player. Let the hate flow through you.
+>[!quote] Good... use your aggressive feelings, player. Let the hate flow through you.
 >—Darth Voldemort pushing you to the Dark Side
 
 ![600](https://i.imgur.com/P6B2EOO.png)

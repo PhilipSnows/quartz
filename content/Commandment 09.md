@@ -1,5 +1,5 @@
 # 9. You Shall Upgrade Strategically
->"Ravenclaws are a bunch of nerds. You overthink everything."
+>[!quote] "Ravenclaws are a bunch of nerds. You overthink everything."
 >—Shut up.
 
 ![600](https://i.imgur.com/pxUxemG.png)
