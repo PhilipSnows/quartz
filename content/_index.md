@@ -8,6 +8,7 @@ This is a fan work, freely given to the community. Contact creators on [Discord]
 
 ## Introduction
 >[!quote] "The player's body turned into his dueling partner, spread-eagled on her back, her eyes wide open and empty. The player sobbed harder than ever. 'R-riddikulus!' he sobbed again. Crack. A whale replaced the body, an absurd amount of HP, basic attacks dealing twice as much damage. 'No!' The player moaned. 'No ... riddikulus! Riddikulus! RIDDIKULUS!' Crack. P2W Wands. Crack. Deck filled with Level 15 Cards. Crack. Max Level Legendary Echos with +3 bonuses ..."
+>
 >— Harry Potter and the Cursed Whale 🐳
 
 This guide exists because Hogwarts does not prepare you to face whales in Defense Against the Dark Arts, but it should. With some preparation, **F2P Players can win PVP against whales** and **veterans.**

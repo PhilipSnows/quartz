@@ -1,5 +1,6 @@
 # 5. You Shall Not Gamble... Often
 >[!quote] “We’ll bet thirty-seven Galleons, fifteen Gems, three Gold Coins,” said Fred as he and George quickly pooled all their money,“ that Ireland wins — but Viktor Krum gets the Snitch. Oh and we’ll throw in a P2Wand.”
+>
 >— Harry Potter and the Magical Bookie
 
 ![](https://i.imgur.com/CV16o92.jpg)

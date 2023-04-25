@@ -1,5 +1,6 @@
 # 1. You Shall Invest in Power
 >[!quote] “It is a curious thing, Harry, but perhaps those who are best suited to power are those who have never sought it, they just buy it with a credit card."
+>
 >— Dumbledore talking nonsense
 
 ![600](https://i.imgur.com/YO2BTgN.jpg)

@@ -1,4 +1,4 @@
-﻿# Magic Awakened F2P Guide
+# Magic Awakened F2P Guide
 
 ![Magic Awakened Banner](https://i.imgur.com/eyfRpFc.jpg)
 
@@ -15,6 +15,7 @@ A Guide Divided in **10 Commandments** filled with tips, advice, memes, and bad 
 Survive the P2W madness and learn how to have fun as a F2P Player!
 
 >"It is a curious thing, Harry, but perhaps those who are best suited to power are those who grind for it, they earn it, they don't just buy it with a credit card." 
+>
 >—Harry Potter and the Cursed Whale 🐳
 
 [Join the Discord Community](https://discord.gg/harry-potter-magic-awakened-769046926825750538)
