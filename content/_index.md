@@ -4,7 +4,7 @@ enableToc: true
 ---
 # **Magic Awakened F2P Guide**
 
-This is a fan work, freely given to the community. Contact creators on Discord, GitHub or Google if you want to help or change anything. Sources at the end.
+This is a fan work, freely given to the community. Contact creators on [Discord](https://discord.gg/harry-potter-magic-awakened-769046926825750538), GitHub or Google if you want to help or change anything. Sources at the end.
 
 ## Introduction
 >"The player's body turned into his dueling partner, spread-eagled on her back, her eyes wide open and empty. The player sobbed harder than ever. 'R-riddikulus!' he sobbed again. Crack. A whale replaced the body, an absurd amount of HP, basic attacks dealing twice as much damage. 'No!' The player moaned. 'No ... riddikulus! Riddikulus! RIDDIKULUS!' Crack. P2W Wands. Crack. Deck filled with Level 15 Cards. Crack. Max Level Legendary Echos with +3 bonuses ..."
