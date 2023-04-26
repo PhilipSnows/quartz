@@ -11,7 +11,7 @@ As a F2P Player, It is understandable to get frustrated by P2W. A player who inv
 
 **Players who keep playing despite PVP frustrations become veterans.** Veterans are more powerful than 99% of whales. 
 
-The difference in power between F2P Players and whales is (usually) small. The only P2W item that grants any amount of power in this game is a **P2Wand**, and F2P Players can **get one by saving resources and biding their time.**
+The difference in power between F2P Players and whales is (usually) small. The only P2W item that grants any amount of power in this game is a [[Commandment 05#P2Wands|P2Wand]], and F2P Players can get one by [[Commandment 05#The Gacha Wheel 🐳|saving resources and biding their time]].
 
 All players **just want to have fun in PVP**, they only differ in how to pursue that.
 
@@ -36,10 +36,10 @@ Grind should fit the time you're willing to invest in it. Only a **few minutes?*
 2. Event, Story, or Side Missions
 3. Forbidden Forest
 4. Team Activities
-6. Co-op Forest (for Thank You Letters)
+6. Co-op Forest (for [[Commandment 07#Thank You Letters|Thank You Letters]])
 7. PVP
 
-Monthly goals drive you. You have **the entire month** to reach Hall of Fame, complete the Season Pass, or grind enough resources to afford monthly prizes or the Gacha Wheel. **Pace yourself** to avoid **boredom** and **frustration.**
+Monthly goals drive you. You have **the entire month** to reach Hall of Fame, complete the Season Pass, or grind enough resources to afford monthly prizes or the [[Commandment 05#|Gacha Wheel.]] **Pace yourself** to avoid **boredom** and [[Commandment 10|frustration.]]
 
 It's ok to miss your goals, the most important thing is to **come back to grind** the next day. Keep it **fun**, and **power** will come **over time.**
 

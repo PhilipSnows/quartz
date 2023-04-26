@@ -10,7 +10,7 @@ The one advantage F2P Players have over whales is **reduced FOMO.** A limited-ti
 
 Yes, you will fall further behind by playing less, but **F2P Players are always behind anyway.** You play the long game.
 
-This game is amazing, but **PVE** content will **run out** and **PVP will get frustrating.** The **Matchmaking Wall** is inevitable.
+This game is amazing, but **PVE** content will **run out** and **PVP will get frustrating.** The [[Commandment 04#The Matchmaking Wall|Matchmaking Wall]] is inevitable.
 
 Come back when **new PVE content is added**, new **Dueling Season** begins. Maybe help improve this guide for F2P Players ( *wink, wink* ).
 
@@ -55,3 +55,5 @@ Moral of the story: The whale usually wins.
 8. [[Commandment 08|You Shall Use Meta Decks]]
 9. [[Commandment 09|You Shall Upgrade Strategically]]
 10. [[Commandment 10|You Shall Not Pass 🧙🏻‍♂️]]
+
+🔗 [[Credits]]

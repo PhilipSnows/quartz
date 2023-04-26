@@ -1,4 +1,4 @@
-﻿# 9. You Shall Upgrade Strategically
+# 9. You Shall Upgrade Strategically
 >[!hint] "Ravenclaws are a bunch of nerds. You overthink everything."
 >
 >—Shut up.
@@ -7,7 +7,7 @@
 
 There is a lot of **luck involved in resource allocation.** For the most part, you can't select what Card Duplicates you find.
 
-Resources like **Gold** and **Gems**, on the other hand, are **yours to control.** Understanding your options is important in selecting what is best for you.
+Resources like [[Commandment 07#Gold|Gold]] and [[Commandment 07#Gems|Gems]], on the other hand, are **yours to control.** Understanding your options is important in selecting what is best for you.
 
 There are **three paths (strategies) for upgrading cards**, each with advantages and disadvantages:
 

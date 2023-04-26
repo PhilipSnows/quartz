@@ -31,13 +31,13 @@ That said, **enjoyment of the game is more important than power.** If you are ab
 
 ![600](https://i.imgur.com/RVh3FcX.jpg)
 
-Most cosmetics can be acquired using **Gems** or **Event Currencies.** You can **hoard** such resources and **wait for an opportunity.**
+Most cosmetics can be acquired using [[Commandment 07#Gems|Gems]] or [[Commandment 07#Event Currency|Event Currencies.]] You can **hoard** such resources and **wait for an opportunity.**
 
 **The best cosmetics are time-limited,** to generate **FOMO.** You will **not** be able to save enough resources **between the time a cosmetic appears and the time it disappears.**
 
 When you buy cosmetics, be sure it is something you really want, because **F2P Players cannot afford to buy cosmetics every month.**
 
-You need time to hoard. It takes around **two months worth of saving gems** to buy 60 Clockturn Keys.
+You need time to hoard. It takes around **two months worth of saving gems** to buy 60 [[Commandment 07#Clockturn Keys|Clockturn Keys.]]
 
 And the initial advice remains: you should ignore cosmetics and **focus on power instead.**
 

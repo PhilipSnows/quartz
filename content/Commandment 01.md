@@ -31,7 +31,7 @@ To upgrade your cards you need resources. **Whales** and **veterans** are powerf
 
 ![600](https://i.imgur.com/DxEOvFQ.png)
 
-It's not only the two things used to upgrade cards that matter (Gold and Card Duplicates). **Almost every resource can help increase your Magic Book Level**, directly or indirectly. 
+It's not only the two things used to upgrade cards that matter ([[Commandment 07#Gold|Gold]] and [[Commandment 07#Trade Coins, Wild Cards & Duplicate Packs|Card Duplicates]]). **Almost every resource can help increase your Magic Book Level**, directly or indirectly. 
 
 Resources can be used for a variety of things, in a variety of ways. **A whale may end up with a low Magic Book Level because of how they spent their resources.** The key to survive as a F2P Player is resource management. Always. Resources lead to power.
 
@@ -62,11 +62,11 @@ Magic Awakened players will lust over **Legendary Card Duplicates** about as oft
 
 An Echo is the **heart of a deck.** Each Echo has a **special ability** based on a character from the Harry Potter universe, and grants a **bonus to HP**, **attack**, and **specific cards** in a deck. 
 
-What makes a card good or bad is **how much it suits the Echo** used in a deck.
+What makes a card good or bad is [[Commandment 08|how much it suits the Echo]] used in a deck.
 
 Question: **How many resources** would you need to acquire **Good Max Level Legendary Echos?** Answer: **Yes.**
 
-The game will happily encourage you to throw everything **and the kitchen sink** at this black hole. Echo Crystals? Obviously. Gold? Sure. Gems? Definitely possible. Other Echos? Go nuts.
+The game will happily encourage you to throw everything **and the kitchen sink** at this black hole. [[Commandment 07#Echo Crystals|Echo Crystals]]? Obviously. [[Commandment 07#Gold|Gold]]? Sure. [[Commandment 07#Gems|Gems]]? Definitely possible. Other Echos? Go nuts.
 
 ![600](https://i.imgur.com/URTYItD.png)
 

@@ -6,6 +6,8 @@ enableToc: true
 
 This is a fan work, freely given to the community. Contact creators on [Discord](https://discord.gg/harry-potter-magic-awakened-769046926825750538) or [GitHub](https://github.com/PhilipSnows/quartz) if you want to help or change anything. [[Credits|Sources]] at the bottom.
 
+**Feel free to use the guide in any way you like, no need to ask for permission.**
+
 ## Introduction
 >[!quote] "The player's body turned into his dueling partner, spread-eagled on her back, her eyes wide open and empty. The player sobbed harder than ever. 'R-riddikulus!' he sobbed again. Crack. A whale replaced the body, an absurd amount of HP, basic attacks dealing twice as much damage. 'No!' The player moaned. 'No ... riddikulus! Riddikulus! RIDDIKULUS!' Crack. P2W Wands. Crack. Deck filled with Level 15 Cards. Crack. Max Level Legendary Echos with +3 bonuses ..."
 >
@@ -26,7 +28,7 @@ There is no need to read the entire guide back to back. **Just do the following:
 
 1. Go to a main section;
 2. Skip quotes and memes if you hate fun;
-3. Read the content or skip to new links at the bottom of the page.
+3. Read the content or skip to new links at the bottom of each page.
 
 ## The 10 Commandments
 The secret to survive as a F2P Player will be repeated a lot in this guide: **resource management.** Always.
@@ -50,4 +52,3 @@ The secret to survive as a F2P Player will be repeated a lot in this guide: **re
 
 ---
 [[Credits|🔗 Link to Copyright Info, credits, and other cool stuff]]
-

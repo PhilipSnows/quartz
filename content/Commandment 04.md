@@ -33,7 +33,7 @@ There are different **types of players** in this game. You have to understand wh
 
 ![600](https://i.imgur.com/uGsQobU.png)
 
-**Blue whales** are not like most whales. Most whales do the math and realize it would be insane to pay for a High Magic Book Level. Blue whales follow the P2W Code. Blue whales are like veterans without the skill.
+**Blue whales** are not like most whales. Most whales do the math and realize it would be insane to pay for a High Magic Book Level. Blue whales follow the P2W Code.
 
 ![600](https://i.imgur.com/73wN4Ny.png)
 
