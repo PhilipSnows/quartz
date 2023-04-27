@@ -1,10 +1,12 @@
 # Credits
 Created by Bornogo. Look for me on [Discord](https://discord.gg/harry-potter-magic-awakened-769046926825750538) if you want to help or change anything.
 
+Special thanks to the [Harry Potter: Magic Awakened Community](https://discord.gg/harry-potter-magic-awakened-769046926825750538) for being always helpful.
+
 [[_index|🔗Back to Main Page]]
 
 # Resources Every Player Should Know About
-* [Magic Awakened Discord (Fan Server)](https://discord.gg/harry-potter-magic-awakened-769046926825750538)
+* [Magic Awakened Community (Discord Server)](https://discord.gg/harry-potter-magic-awakened-769046926825750538)
 * [Magic Awakened Discord (Official Server)](https://discord.gg/harrypottermagicawakened)
 * [Magic Awakened Database](https://awakened-db.com)
 * [Gorou's Cheat Sheet](https://docs.google.com/spreadsheets/d/12EwLWrgKqqKUhiBkZzKyK0RVNHT5CUHQh6geWi4z0M4/edit#gid=0)
@@ -29,7 +31,7 @@ Portuguese (BR) Language Channels:
 
 This is a free guide with no commercial value. It should be protected under Fair Use. If a **copyright holder** disagrees and would like assets removed, **contact us and it shall be done**. Thank you.
 
-**Media used:**
+**Media and content used:**
 
 * The Harry Potter books and films, by Wizarding World
 * Assets from Harry Potter Magic Awakened, by Warner Bros Games
@@ -43,6 +45,7 @@ This is a free guide with no commercial value. It should be protected under Fair
 * The original Jedi and Sith Code from Star Wars
 * Magic Awakened Wallpaper by Zhui Chuang
 * Illustrations found on [Harry Potter Fanzone](https://harrypotterfanzone.com)
+* Potions Guide by [Loid](https://discord.com/channels/769046926825750538/934532732682391572/1061418680531034234)
 * Gameplay screenshots from [Ayaya Records](https://www.youtube.com/@ayayarecords5794)
 * Gameplay screenshots from [AnimagusYT](https://www.youtube.com/@AnimagusYT)
 * Gameplay screenshots from [Harry Potter Magic Awakened Central](https://www.youtube.com/@HPCentral)
